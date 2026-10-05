@@ -1,0 +1,579 @@
+{
+  "name": "edge80",
+  "target": {
+    "usename": "app",
+    "datname": "appdb"
+  },
+  "now": "2026-10-05T12:00:00Z",
+  "lastCleanAt": "2026-10-05T11:00:00Z",
+  "config": {
+    "maxConnections": 100,
+    "connUtilization": 0.8,
+    "minConnectionIdleTimeSec": 0.5,
+    "maxIdleConnectionsToKill": null,
+    "maxConnectionsFreqMs": 60000
+  },
+  "terminated": [],
+  "connections": [
+    {
+      "pid": 1001,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1002,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1003,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1004,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1005,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1006,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1007,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1008,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1009,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1010,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1011,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1012,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1013,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1014,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1015,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1016,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1017,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1018,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1019,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1020,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1021,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1022,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1023,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1024,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1025,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1026,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1027,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1028,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1029,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1030,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1031,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1032,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1033,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1034,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1035,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1036,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1037,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1038,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1039,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1040,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1041,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1042,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1043,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1044,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1045,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1046,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1047,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1048,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1049,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1050,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1051,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1052,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1053,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1054,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1055,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1056,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1057,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1058,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1059,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1060,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1061,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1062,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1063,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1064,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1065,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1066,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1067,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1068,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1069,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1070,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1071,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1072,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1073,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1074,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1075,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1076,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1077,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1078,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1079,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    },
+    {
+      "pid": 1080,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:50:00Z"
+    }
+  ]
+}

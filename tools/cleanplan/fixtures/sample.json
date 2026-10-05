@@ -1,0 +1,117 @@
+{
+  "name": "sample",
+  "target": {
+    "usename": "app",
+    "datname": "appdb"
+  },
+  "now": "2026-10-05T12:00:00Z",
+  "lastCleanAt": "2026-10-05T11:00:00Z",
+  "config": {
+    "maxConnections": 10,
+    "connUtilization": 0.8,
+    "minConnectionIdleTimeSec": 0.5,
+    "maxIdleConnectionsToKill": null,
+    "maxConnectionsFreqMs": 60000
+  },
+  "terminated": [
+    412,
+    417,
+    419,
+    422,
+    430,
+    433
+  ],
+  "connections": [
+    {
+      "pid": 101,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "active",
+      "stateChange": "2026-10-05T11:59:59Z"
+    },
+    {
+      "pid": 442,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle in transaction",
+      "stateChange": "2026-10-05T09:00:00Z"
+    },
+    {
+      "pid": 441,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T12:00:00Z"
+    },
+    {
+      "pid": 412,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T10:00:00Z"
+    },
+    {
+      "pid": 417,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T10:30:00Z"
+    },
+    {
+      "pid": 419,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:00:00Z"
+    },
+    {
+      "pid": 421,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:00:00Z"
+    },
+    {
+      "pid": 422,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:30:00Z"
+    },
+    {
+      "pid": 430,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:45:00Z"
+    },
+    {
+      "pid": 433,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:55:00Z"
+    },
+    {
+      "pid": 440,
+      "usename": "app",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T11:59:00Z"
+    },
+    {
+      "pid": 900,
+      "usename": "report",
+      "datname": "appdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T08:00:00Z"
+    },
+    {
+      "pid": 901,
+      "usename": "app",
+      "datname": "reportdb",
+      "state": "idle",
+      "stateChange": "2026-10-05T08:00:00Z"
+    }
+  ]
+}
